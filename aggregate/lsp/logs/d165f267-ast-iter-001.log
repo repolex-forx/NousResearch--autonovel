@@ -1,0 +1,7 @@
+[2026-10-04T14:33:53Z] === AST ITERATION 1 START | repo=NousResearch/autonovel sha=d165f267 ===
+[2026-10-04T14:33:53Z] [iter=1] PHASE START: ast repo=NousResearch/autonovel sha=d165f267
+[2026-10-04T14:33:53Z] [iter=1] Building AST aggregate chunks
+[2026-10-04T14:34:18Z] [iter=1] AST chunks built count=1 triples=331347
+[2026-10-04T14:34:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d165f267a0ffd34f3b0a70a8a72ac38cb8e4a542/.complete
+[2026-10-04T14:34:18Z] [iter=1] PHASE END: ast elapsed_s=25 elapsed_min=0.4
+[2026-10-04T14:34:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
